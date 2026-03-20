@@ -1,1 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Email Feed</title>
+    <link>https://yourdomain.com/</link>
+    <description>My email RSS feed</description>
 
+    <!-- ITEMS WILL BE INSERTED HERE -->
+
+  </channel>
+</rss>
